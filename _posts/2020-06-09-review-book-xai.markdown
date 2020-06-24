@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "[리뷰] XAI 설명 가능한 인공지능 (인공지능을 해부하다)"  
+title: "갑자기 왜 됨?"  
 subtitle: "블랙박스를 이해하고 시스템의 신뢰성을 높이기 위한"  
 categories: review  
 tags: review book xai explainable artificial intelligence pfi pdp lime shap filter visualization lrp
