@@ -1,9 +1,8 @@
 ---
 layout: tag-blog
-title: Competition
-slug: competition
+title: Java
+slug: r
 category: dev
 menu: false
-order: 4
+order: 0
 ---
- 

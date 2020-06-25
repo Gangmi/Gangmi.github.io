@@ -2,28 +2,28 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               TheoryDB
+title: 나는 블로그가 하고싶어서
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://theorydb.github.io
+url:                 https://gangmi.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "All roads lead to data."
+tagline: By me , For me
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Data science enthusiast and addict :)
+ 우리는 모르는게 너무 많다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              min
-  email:             theorydb@gmail.com
+  name: Gangmi
+  email:             lettoncom@gmail.com
 
 # Fallback image and color
 image:               /assets/img/main_left.jpg

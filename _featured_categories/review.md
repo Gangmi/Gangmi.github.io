@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Review
+title: 리뷰
 slug: review
 menu: true
 submenu: false
