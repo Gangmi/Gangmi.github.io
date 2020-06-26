@@ -1,11 +1,10 @@
----  
+﻿---  
 layout: post  
 title: "갑자기 왜 됨?"  
 subtitle: "블랙박스를 이해하고 시스템의 신뢰성을 높이기 위한"  
 categories: review  
 tags: review book xai explainable artificial intelligence pfi pdp lime shap filter visualization lrp
 comments: true  
-header-img: img/review/2020-06-05-review-book-xai-1.png
 ---  
   
 > `위키북스` 출판사의 `"XAI 설명 가능한 인공지능, 인공지능을 해부하다(안재현 저)"`를 읽고 작성한 리뷰입니다.  
@@ -14,7 +13,7 @@ header-img: img/review/2020-06-05-review-book-xai-1.png
 
 ---
 
-* __XAI(eXplainable Artificial Intelligence, 설명 가능한 인공지능)__  
+* __XAI(eXplainable Artificial Intelligence, 설명 가능한 인공지능)__
   > XAI는 말 그대로 설명 가능한 인공지능을 의미한다. 
   
   딥러닝은 성능이 훌륭한 만큼이나 해석력이 떨어지기에 내부가 `블랙박스`로 표현되곤 한다. 1975년 Buchanan과 Shortliffe의 논문에서 설명 가능한 의사 결정 체계라는 의미로 처음 사용된 후, 2004년이 되어서야 Fisher, Rudin, Dominic에 의해 현재 의미를 뜻하는 전문 용어로 자리잡았다.  
