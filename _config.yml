@@ -26,18 +26,18 @@ author:
   email:             lettoncom@gmail.com
 
 # Fallback image and color
-image:               /assets/img/main_left.jpg
-color:               '#4f86aa'
+image:               /assets/img/main_left.gif
+color:               '#000000'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
-font_heading:        "'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif'"
+font_heading:        "'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif','Single Day'"
 
 # The text font. Expects a string that is a valid CSS font-family value.
-font:                "'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif'"
+font:                "'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif','Single Day','Nanum Gothic'"
 
 # The string encoding what fonts to fetch from Google Fonts.
 # See: https://qwtel.com/hydejack/docs/configuration/
-google_fonts:        Lato
+google_fonts:        Nanum Gothic
 
 # If you do not use a Google Fonts, uncomment the line below
 # no_google_fonts:     true
@@ -48,7 +48,7 @@ google_analytics:    UA-137374202-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    나는 블로그가 하고싶어서
+disqus_shortname:    gangmi
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2019.06 by Gangmi'
