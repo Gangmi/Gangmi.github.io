@@ -262,17 +262,3 @@ print(customer)
     Ko    2017-01-10    200   canceled  non-vip
 
 
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
