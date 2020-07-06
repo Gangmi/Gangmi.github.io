@@ -1,6 +1,6 @@
 ﻿---
 layout: post  
-title: "[Java] 자바 기초 지식"  
+title: "[Java] 1.자바 기초 지식"  
 subtitle: "자바의 역사 및 시작하기전에 알고 시작하면 좋을 것들"  
 categories: dev
 tags: java
